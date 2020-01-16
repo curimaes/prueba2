@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+}
+
+header 
+{
+	background-image: url(design2_image1.jpg);
+	height: 400px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+h1{
+	font-size: 4vw;
+	
+	background-color: white;
+	width: 100%;
+	top: 0;
+}
+
+
+#image1 {
+	 width: 100vw;
+	 height: 50vh;
+
+}
+
+#subtitulo {
+	background-color: white; 
+	color: black;
+	text-align: center;
+	padding: 10px 0px;
+	margin: 0;
+	border: 3px solid black;
+}
+
+#logo {
+	width: 150px;
+	position: relative;
+	z-index: 99px;
+	top:220px;
+	left: -235px;
+}
+
+.links {
+	background-color: none;
+	color:blue;
+justify-content: space-between;
+background-color: blue;
+
+	}
+
+
+.navbar{
+	position:absolute;
+	top: 50px;
+	right: 30px;
+}
+}
+
+#home {
+	background-color: green;
+}
+
+.details2 {
+	color:black;
+	background-color: none;
+	position: relative;
+	display: inline-block;
+	top:-150px;
+}
+
+.details {
+	background-color: none;
+	position: relative;
+	display: inline-block;
+	left: 250px;
+	top: -175px;
+}
+.details3 {
+	color:black;
+	background-color: none;
+	position: absolute;
+	display: inline-block;
+	left:250px;
+	font-size: none;
+	padding-right: 60px;
+	margin-top: 70px;
+}
+
+section	{
+	
+	
+
+}
+
+#cuadro {
+	margin-top: 100px;
+
+
+}

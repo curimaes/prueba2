@@ -1,0 +1,89 @@
+header
+{
+	background-image: url("design1_image1.jpg");
+	height: 400px;
+	background-size: cover;
+	font-size: 250%;
+
+}
+
+#image1 {
+	display: none;
+}
+
+#subtitulo {
+	background-color: black; 
+	color: white;
+	text-align: center;
+	padding: 10px 0px;
+	margin: 0;
+}
+
+#logo {
+	width: 150px;
+	position: absolute;
+	z-index: 99px;
+	right: 60px;
+	top:410px;
+}
+
+.links {
+	position: relative;
+	display: inline-block;
+	margin-top: 0px;
+	width: 35vw;
+	color: #00414F;
+	}
+
+	#box{
+
+		display:flex;
+		flex-direction: column;
+		width: 30%;
+		margin: 0px;
+
+
+	}
+.cajas{
+/* display: block; */
+
+padding: 10px;
+}
+.details2 {
+	color:black;
+	background-color: none;
+	position: absolute;
+	display: inline-block;
+	left:250px;
+	font-size: none;
+	padding-right: 60px;
+	margin-top: 70px;
+}
+
+.details {
+	background-color: none;
+	position: absolute;
+	display: inline-block;
+	left: 250px;
+	top: 500px;
+
+}
+.details3 {
+	color:black;
+	background-color: none;
+	position: absolute;
+	display: inline-block;
+	left:250px;
+	font-size: none;
+	padding-right: 60px;
+	margin-top: 70px;
+}
+
+ /*
+.details3 {
+	background-color: red;
+	position: relative;
+	display: inline-block;
+	left: 250px;
+	top: -175px;
+	}

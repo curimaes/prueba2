@@ -1,0 +1,152 @@
+* {
+	margin: 0;
+	}
+
+header {
+	font-size: 180%;
+	text-align: center;
+	background-image: url("design1_image1.jpg");
+	height: 80vh;
+	background-size: cover;
+	color: #00414F;
+	position: relative;
+
+}
+h1 {
+	text-shadow: -2px -2px 1px #AFFF00, 2px 2px 1px #AFFF00, -2px 2px 1px #AFFF00, 2px -2px 1px #AFFF00;
+	}
+
+#logoizq {
+	position: absolute;
+	width: 150px;
+	z-index: 99px;
+	left: 45px;
+	top: 120px;
+	}
+
+#logoder {
+	position: absolute;
+	width: 150px;
+	z-index: 99px;
+	right: 45px;
+	top: 120px;
+	}
+
+#subtitulo {
+         background-color: #AFFF00;
+         text-align: center;
+         color: #00414F;
+         border: solid 4px #00414F;
+
+}
+
+body {
+	background-image: url("cancha.jpg");
+	background-size: cover;
+	background-position: bottom;
+
+
+	}
+
+a {
+	color: #00414F;
+	text-shadow: 2px 2px #AFFF00;
+	text-decoration: none;
+
+	}
+
+	.links {
+	position: relative;
+	display: inline-block;
+	margin-top: 0px;
+	width: 35vw;
+	color: #00414F;
+	}
+
+.home {
+	text-align:center;
+	position: absolute;
+	width: 15vw;
+	font-size: 20px;
+	top: -35px;
+	z-index: 99px;
+	left: 1vw;	
+	font-weight: bold;
+	}
+
+#pelota {
+	width: 8vw;
+	position: absolute;
+	z-index: 99px;
+	height: 8vw;
+	top: -150px;
+	left: 5vw;
+}
+
+.about {
+		text-align:center;
+	position: absolute;
+	width: 200px;
+	font-size: 20px;
+	top: 105px;
+	left: 2vw;
+	color: #00414F;
+	}
+
+#botines {
+	width: 10vw;
+	position: absolute;
+	z-index: 99px;
+	height: 12vw;
+	top: -20px;
+	left: 5vw;
+}
+
+.contact {
+	 width: 13vw;
+	position: absolute;
+	z-index: 99px;
+	height: 16vw;
+	top: 100px;
+	left: 0vw;
+	font-size: 20px;
+	text-align: center;
+	color: #00414F;
+
+}
+
+#email {
+	 width: 7vw;
+	position: absolute;
+	z-index: 99px;
+	height: 7vw;
+	top: 160px;
+	left: 5.5vw; 
+}
+
+.details {
+	background-color: #00414F;
+	position: relative;
+	display: inline-block;
+	left: -150px;
+	top: 150px;
+	font-size: 150%;
+	font-weight: bold;
+	border: solid 5px #AFFF00 ;
+	color: white;
+
+}
+
+#details2 {
+	width: 60vw;
+	font-size: 110%;
+}
+
+#details3 {
+	width: 60vw;
+}
+
+#mail {
+	color: #AFFF00;
+	text-shadow: none;
+}
